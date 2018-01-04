@@ -1,4 +1,4 @@
-# Youtube-Api-App
+# React-Redux Book List App
 A simple React-Redux Book List application built on React-Redux.
 
 ## To start using the app please follow the following steps
